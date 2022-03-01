@@ -1,2 +1,1 @@
-# TinDog-Application
-Dating application of dogs
+TinDog Starting Files
